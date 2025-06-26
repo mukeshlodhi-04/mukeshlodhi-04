@@ -6,8 +6,8 @@ Here, you'll find my passion for **coding**, **problem-solving**, and building i
 ---
 
 ## 🛠️ Technologies & Skills  
-- **Languages**: Java ☕ | JavaScript 🛠️ | HTML & CSS 🎨 | C++ 🚀  
-- **Frameworks**: React ⚛️ | Node.js 🌐 | MERN Stack 💡 | PHP 🔧  
+- **Languages**: Java ☕ | JavaScript 🛠️ | HTML & CSS 🎨   
+- **Frameworks**: React ⚛️ | Node.js 🌐 | MERN Stack 💡    
 - **Tools**: Git & GitHub 🐙 | MongoDB 🍃 | MySQL 🗄️ | VS Code 💻  
 - **Others**: Data Structures & Algorithms (DSA) 🧠 | 
 
@@ -22,7 +22,6 @@ Here, you'll find my passion for **coding**, **problem-solving**, and building i
 
 ## 💡 Highlights  
 - 🌟 Top 5% in NPTEL's **Modelling and Analytics for Supply Chain Management** course  
-- 🌏 Building a travel website: **Let’s Travel** – Explore India’s best destinations  
 - 💻 300+ problems solved on **LeetCode** in DSA  
 
 ---
